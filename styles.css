@@ -1,15 +1,8 @@
 /* Your CSS Code here. */
-#box-1{
-	height:300px;
-	width:300px;
-	border:1px solid black;
-}
-#box-2{
-	border:15px solid blue;	
-}
-#box-3{
-	padding:50px;
-	margin:20px;
-	width:300px;
-	background-color:lightblue;
-}
+#box-1 {
+            width: 300px;
+            background-color: lightblue;
+            border: 15px solid blue;
+            padding: 50px;
+            margin: 20px;
+        }
