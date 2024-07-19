@@ -1,8 +1,12 @@
 /* Your CSS Code here. */
+
 #box-1 {
-            width: 300px;
+           border:1px solid black;
+        }
+#box-2{
+			width: 300px;
             background-color: lightblue;
             border: 15px solid blue;
             padding: 50px;
             margin: 20px;
-        }
+}
