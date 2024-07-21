@@ -1,8 +1,7 @@
 /* Your CSS Code here. */
 
 .box-model {
-		   width: 500px;
-           border:1px solid black;
+		   width: 300px;
 		    background-color: rgb(173, 216, 230);
             border: 15px solid blue;
             padding: 50px;
