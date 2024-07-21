@@ -1,20 +1,14 @@
 /* Your CSS Code here. */
 
-#box-1 {
+.box-model {
 		   width: 500px;
            border:1px solid black;
-        }
-#box-2{
-			
-            background-color: rgb(173, 216, 230);
+		    background-color: rgb(173, 216, 230);
             border: 15px solid blue;
             padding: 50px;
             margin: 20px;
-}
-#box-3{
-	width:300px;
-	
-}
-p{
-	border:1px solid black;
-}
+        }
+
+			
+        
+
